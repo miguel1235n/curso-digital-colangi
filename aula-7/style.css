@@ -1,0 +1,31 @@
+div:hover{
+    background-color: aqua;
+}
+button{
+    background-color: blue;
+}
+button:hover{
+    background-color: brown;
+}
+button:active{
+    background-color: darkgreen;
+}
+a{
+    text-decoration: nome;
+}
+a:visited{
+    color: brown;
+}
+a:hover{
+    color: darkgoldenrod;
+    text-decoration-line: underline;
+}
+input:disabled{
+    background-color: brown;
+}
+table{
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px solid black;padding:0 12px ;
+}
